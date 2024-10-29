@@ -2,7 +2,7 @@
 # Project Overview
 In this project, we tackle the complexities of real-world data by performing a complete data-wrangling process using Python and its powerful libraries. Real-world data is rarely clean and often exists in varied formats and sources. This project walks through essential steps in data wrangling: gathering data from multiple sources, assessing its quality and tidiness, cleaning and refining it, and finally, producing insightful visualizations to showcase findings.
 
-Project Steps
+# Project Steps
 - Data Gathering: Retrieve data from at least two different sources using various data-gathering methods. After extraction, combine the datasets into a unified structure for analysis.
 
 - Data Assessment: Analyze the gathered data to identify potential quality and tidiness issues, such as missing values or inconsistencies.
